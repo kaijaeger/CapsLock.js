@@ -1,0 +1,27 @@
+{
+  "name": "CapsLock.js",
+  "description": "Library for detecting the caps lock key in JavaScript.",
+  "main": [
+    "CapsLock.js"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "capslock"
+  ],
+  "authors": [
+    "Stephen Morley"
+  ],
+  "license": "CC0 1.0 Universal",
+  "ignore": [
+    "**/.*"
+  ],
+  "private": false
+}
